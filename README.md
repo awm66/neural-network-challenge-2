@@ -3,7 +3,7 @@ Week 19 Challenge
 
 ## Summary
 
-This application analyzes HR data and creates a branched neural network model to predict attrition. The neural network package utilized was Keras with TensorFlow. The model achieved a 77%% accuracy score for attrition prediction and 48% accuracy for department prediction.
+This application analyzes HR data and creates a branched neural network model to predict attrition. The neural network package utilized was Keras with TensorFlow. The model achieved a 77% accuracy score for attrition prediction and 48% accuracy for department prediction.
 
 ## Approach
 
@@ -24,7 +24,7 @@ Model Structure:
 
 Accuracy Scores:
 
-<img src="accuracy_scores.png" width="300" height="52">
+<img src="accuracy.png" width="300" height="52">
 
 ## Plagerism Statement
 
